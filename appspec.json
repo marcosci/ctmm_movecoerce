@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "R": [
+      {
+        "name": "ctmm",
+      },
+      {
+        "name": "move"
+      }
+    ]
+  },
+  "createsArtifacts": false,
+  "license": {
+    "key": "MIT"
+  },
+  "language": "eng",
+  "keywords": [
+    "movestack",
+    "ctmm",
+    "coerce"
+  ],
+  "people": [
+    {
+      "firstName": "Marco",
+      "middleInitials": null,
+      "lastName": "Sciaini",
+      "email": "marco@kaldera.dev",
+      "roles": [
+        "author",
+        "creator"
+      ],
+      "orcid": null,
+      "affiliation": "kaldera",
+      "affiliationRor": null
+    },
+    {
+      "firstName": "Johannes",
+      "middleInitials": null,
+      "lastName": "Signer",
+      "email": "xxx",
+      "roles": [
+        "author",
+        "creator"
+      ],
+      "orcid": null,
+      "affiliation": "xxx",
+      "affiliationRor": null
+    }
+  ],
+  "funding": [
+    {
+      "name": "xxx",
+      "comment": "xxx"
+    }
+  ],
+  "documentation": {
+    "url": "https://github.com/marcosci/ctmm_movecoerce/README.md"
+  }
+}
+
